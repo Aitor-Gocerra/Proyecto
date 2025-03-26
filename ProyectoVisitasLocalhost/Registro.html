@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<htmL>
+<head>
+    <meta charset="UTF-8">
+    <meta name="AUTHOR" content="Aitor Gomez Cerrato">
+	<link rel="stylesheet" href="estiloRegistro.css">
+    <title>Formulario de Ingreso de Jesuita</title>
+</head>
+<body>
+    <h1>Formulario para Ingresar Jesuita</h1>
+    <form action="guardar_jesuita.php" method="POST">
+        <label for="codigo">Código:</label>
+        <input type="text" id="codigo" name="codigo" maxlength="60" required><br><br>
+
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" maxlength="50" required><br><br>
+
+        <label for="nombreAlumno">Nombre del Alumno:</label>
+        <input type="text" id="nombreAlumno" name="nombreAlumno" maxlength="100" required><br><br>
+
+        <label for="firma">Firma:</label>
+        <textarea id="firma" name="firma" maxlength="300" required></textarea><br><br>
+
+        <label for="firmaIngles">Firma en Inglés:</label>
+        <textarea id="firmaIngles" name="firmaIngles" maxlength="300" required></textarea><br><br>
+
+        <button type="submit">Guardar Jesuita</button>
+    </form>
+</body>
+</html>
