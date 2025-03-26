@@ -1,0 +1,140 @@
+[20-Mar-2025 08:41:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 08:41:26 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 12
+[20-Mar-2025 08:41:26 UTC] PHP Warning:  Undefined variable $idJesuita in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 50
+[20-Mar-2025 08:42:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 08:42:10 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 12
+[20-Mar-2025 08:42:10 UTC] PHP Warning:  Undefined variable $idJesuita in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 50
+[20-Mar-2025 08:51:55 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 10
+[20-Mar-2025 08:52:12 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 10
+[20-Mar-2025 08:54:35 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 10
+[20-Mar-2025 08:56:46 UTC] PHP Warning:  Undefined variable $nombre in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 10
+[20-Mar-2025 08:58:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 08:59:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 08:59:42 UTC] PHP Warning:  Undefined variable $conexion in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 27
+[20-Mar-2025 08:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 27
+[20-Mar-2025 09:02:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:02:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:02:50 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 22
+[20-Mar-2025 09:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 22
+[20-Mar-2025 09:02:50 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 33
+[20-Mar-2025 09:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 33
+[20-Mar-2025 09:04:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:04:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:04:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:04:24 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:09:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:09:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:09:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:09:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:09:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:09:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:10:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:10:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:10:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:10:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:10:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:10:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:11:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:11:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:11:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:11:19 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:11:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:14:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:14:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:14:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 5
+[20-Mar-2025 09:14:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:14:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:18:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/validarUsuario.php on line 20
+[20-Mar-2025 09:20:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 4
+[20-Mar-2025 09:20:22 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:20:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:20:22 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 8
+[20-Mar-2025 09:20:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 8
+[20-Mar-2025 09:22:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 09:22:44 UTC] PHP Warning:  Undefined variable $nombreJesuita in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 41
+[20-Mar-2025 09:22:44 UTC] PHP Warning:  Undefined variable $idJesuita in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 52
+[20-Mar-2025 09:28:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 09:28:09 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:28:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:28:09 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:28:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:30:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 09:30:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:30:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:30:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 09:30:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:30:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 09:30:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 09:30:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 11:04:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 11:04:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 11:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 11:04:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 11:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 11:04:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 11:04:46 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 11:04:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 11:04:46 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 11:04:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:36:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:36:32 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:36:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:36:32 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:36:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:40:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:40:47 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:40:47 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:47:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:47:46 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:47:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:47:46 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:47:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 9
+[20-Mar-2025 12:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 9
+[20-Mar-2025 12:53:17 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 9
+[20-Mar-2025 12:53:23 UTC] PHP Parse error:  syntax error, unexpected token "{" in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 9
+[20-Mar-2025 12:56:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:56:00 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:56:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:56:00 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:56:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:56:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:56:04 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:56:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:56:04 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:56:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:57:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 12:57:56 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:57:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 12:57:56 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 12:57:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 13:15:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[20-Mar-2025 13:15:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 13:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[20-Mar-2025 13:15:35 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[20-Mar-2025 13:15:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[21-Mar-2025 10:45:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[21-Mar-2025 10:45:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[21-Mar-2025 10:45:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[21-Mar-2025 10:45:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[21-Mar-2025 10:45:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[21-Mar-2025 10:46:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 3
+[21-Mar-2025 10:46:00 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[21-Mar-2025 10:46:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 6
+[21-Mar-2025 10:46:00 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
+[21-Mar-2025 10:46:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/user1daw/public_html/13/LenguajeDeMarca/ProyectoVisitas/visitas.php on line 7
