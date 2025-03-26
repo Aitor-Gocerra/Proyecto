@@ -1,9 +1,9 @@
 <?php
 // Datos de conexión
-define('SERVIDOR', '1daw.esvirgua.com');  // Cambia 'localhost' por tu servidor
-define('USUARIO', 'user1daw_13');  // Reemplaza con tu usuario de la BD
-define('PASSWORD', '7d!};5MoMVPH'); // Reemplaza con tu contraseña
-define('BBDD', 'user1daw_BD1-13'); // Reemplaza con el nombre de la base de datos
+define('SERVIDOR', '');  // Cambia 'localhost' por tu servidor
+define('USUARIO', '');  // Reemplaza con tu usuario de la BD
+define('PASSWORD', ''); // Reemplaza con tu contraseña
+define('BBDD', ''); // Reemplaza con el nombre de la base de datos
 
 // Crear conexión con la base de datos
 $conexion = new mysqli(SERVIDOR, USUARIO, PASSWORD, BBDD);
